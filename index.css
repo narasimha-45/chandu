@@ -1,0 +1,47 @@
+.start{
+    text-align: end;
+}
+html { 
+    background: url(https://www.shutterstock.com/image-vector/health-care-science-icon-pattern-260nw-1040624467.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+.vid1{
+   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+    
+}
+video{
+    padding-left: 200px;
+}
+.para{
+    text-align: justify;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .button1 {background-color: #4CAF50;} /* Green */
+  .button2 {background-color: #008CBA;} /* Blue */
+ .logo{
+    display: inline;
+ }
